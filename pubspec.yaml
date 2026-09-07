@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: api_call_task
+=======
+name: first_task
+>>>>>>> 9fa4f7471e2ab3d4e8a50547ae99acda04e6f8f5
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -34,7 +38,11 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
+<<<<<<< HEAD
   http: ^1.6.0
+=======
+
+>>>>>>> 9fa4f7471e2ab3d4e8a50547ae99acda04e6f8f5
 dev_dependencies:
   flutter_test:
     sdk: flutter

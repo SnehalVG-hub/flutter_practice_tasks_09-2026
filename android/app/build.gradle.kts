@@ -5,7 +5,11 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.api_call_task"
+=======
+    namespace = "com.example.first_task"
+>>>>>>> 9fa4f7471e2ab3d4e8a50547ae99acda04e6f8f5
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -16,7 +20,11 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+<<<<<<< HEAD
         applicationId = "com.example.api_call_task"
+=======
+        applicationId = "com.example.first_task"
+>>>>>>> 9fa4f7471e2ab3d4e8a50547ae99acda04e6f8f5
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion

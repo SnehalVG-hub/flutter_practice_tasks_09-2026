@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "api_call_task",
     "short_name": "api_call_task",
+=======
+    "name": "first_task",
+    "short_name": "first_task",
+>>>>>>> 9fa4f7471e2ab3d4e8a50547ae99acda04e6f8f5
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
